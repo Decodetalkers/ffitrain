@@ -1,0 +1,6 @@
+[workspace]
+members = [
+	"dynamiclink",
+	"ffitrain",
+	"linkrust",
+]
