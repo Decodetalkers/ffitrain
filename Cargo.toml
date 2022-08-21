@@ -1,6 +1,2 @@
 [workspace]
-members = [
-	"dynamiclink",
-	"ffitrain",
-	"linkrust",
-]
+members = ["dynamiclink", "ffitrain", "linkrust"]

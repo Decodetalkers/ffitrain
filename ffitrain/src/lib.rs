@@ -20,7 +20,6 @@ pub fn get_print() {
         Print();
     }
 }
-extern "C" {}
 #[test]
 fn test_crc32() {
     let s = "hello";
